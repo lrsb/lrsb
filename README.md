@@ -26,7 +26,7 @@ class Skills extends SoftwareDeveloper {
   - Remote gaming over different technologies: HTTP/WebSocket, Socket, RMI
 
  🚀 **Computer Graphics project**: ([🔗Code](https://github.com/lrsb/cg-webgl-2020) | [🕹️Demo](https://lrsb.xyz/cg-webgl-2020/))
-  - A pure Javascript implementation of a missile simulator with custom GLSL shaders.
+  - A Javascript implementation of a missile simulator with custom GLSL shaders.
 
  📊 **Prevent overcrowding in exhibitions using FogFlow**: ([🔗Code](https://github.com/lrsb/people-counter-fogflow) | [📄Paper](https://docs.google.com/viewer?url=https://github.com/lrsb/people-counter-fogflow/raw/master/docs/fogflow.pdf))
   - Prevent overcrowding in an exhibition using cameras
