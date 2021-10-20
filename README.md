@@ -32,5 +32,5 @@ class Skills extends SoftwareDeveloper {
   - Prevent overcrowding in an exhibition using cameras
   - The overall number of visitors is reported to the cloud for information aggregation
 
- 🚕 **Digital logic design project**: ([🔗Code](https://github.com/lrsb/digitallogicdesign-vhdl-2019) | [📄Paper](https://docs.google.com/viewer?url=https://github.com/lrsb/digitallogicdesign-vhdl-2019/raw/master/docs/documentazione.pdf))
+ 🚕 **Digital logic design project**: ([🔗Code](https://github.com/lrsb/digitallogicdesign-vhdl-2019) | [📄Paper (ITA)](https://docs.google.com/viewer?url=https://github.com/lrsb/digitallogicdesign-vhdl-2019/raw/master/docs/documentazione.pdf))
   - A VHDL implementation of a Manhattan distance calculator
