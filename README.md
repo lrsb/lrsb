@@ -1,4 +1,4 @@
-<h1 align="center"> Hello world! 👋<br/></h1> 
+<h1 align="center"> Hello world! 👋<br/></h1>
 
 ```js
 import SoftwareDeveloper from 'lrsb';
@@ -15,6 +15,8 @@ class Skills extends SoftwareDeveloper {
   hw = ['BLE', 'ESP-8266', 'ESP-32', 'ISO-14443', 'ISO-7816', 'LoRa'];
 }
 ```
+
+![](https://komarev.com/ghpvc/?username=lrsb)
 
 ### Recent Projects
 
