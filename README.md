@@ -9,14 +9,12 @@ class Bio extends SoftwareDeveloper {
   location = 'Milan, IT';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills {
   languages  = ['Java', 'Swift', 'MATLAB', 'Python', 'JS', 'Kotlin', 'C'];
   databases  = ['MongoDB', 'PostgreSQL'];
   hw = ['BLE', 'ESP-8266', 'ESP-32', 'ISO-14443', 'ISO-7816', 'LoRa'];
 }
 ```
-
-![](https://komarev.com/ghpvc/?username=lrsb)
 
 ### Recent Projects
 
